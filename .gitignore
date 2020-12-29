@@ -3,3 +3,16 @@
 ################################################################################
 
 /.vs
+/BillsToPay/.vs/BillsToPay
+/BillsToPay/bin
+/BillsToPay/obj
+/BillsToPay/Properties/PublishProfiles
+/BillsToPay/BillsToPay.csproj.user
+/BillsToPay.Test/bin/Debug
+/BillsToPay.Test/obj
+/Business/bin
+/Business/obj
+/Models/bin
+/Models/obj
+/Repository/bin
+/Repository/obj
